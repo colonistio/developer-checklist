@@ -30,8 +30,8 @@
 * [example_url](www.google.com)
 
 ## Checklists
-<!-- DO NOT DELETE OR EDIT THIS LIST -->
-- [ ] This PR abides by [Dev-lvl-1](../tree/development/docs/process/developer-level-1.md), [Dev-lvl-2](../tree/development/docs/process/developer-level-2.md) & [Dev-lvl-3](../tree/development/docs/process/developer-level-3.md) & [Coding Rules](../tree/development/docs/process/coding.md)
+<!-- DO NOT DELETE OR EDIT THIS LIST. ACTUALLY CHECKMARK WHAT YOU HAVE DONE -->
+- [ ] This PR abides by the [fundamental](/docs/code-quality/fundamentals.md), [intermediate](/docs/code-quality/intermediate.md), and [advanced](/docs/code-quality/advanced.md) practices & [Coding Rules](/docs/code-quality/coding-rules.md)
 - [ ] Tested every affected platform in local (Frontend: Chrome, Safari, Firefox, Mobile)
 - [ ] Written tests
 - [ ] Added to patch notes according to the [guide](../tree/development/docs/process/developer-level-1.md#add-patch-note)
