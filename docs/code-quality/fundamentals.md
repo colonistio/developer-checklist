@@ -1,7 +1,7 @@
-# Developer Fundamentals
+# Fundamentals
 
 ## Table of contents
-- [Developer Level-1](#developer-fundamentals)
+- [Fundamentals](#fundamentals)
   - [Table of contents](#table-of-contents)
   - [Importance of reading the material](#importance-of-reading-the-material)
   - [Naming Conventions](#naming-conventions)
@@ -28,7 +28,7 @@
 
 ## Importance of reading the material
 
--  Most people who skim through the reading materials tend to fail the trial. The key to passing is going through both [Developer Fundamentals](#developer-fundamentals) & [Developer Intermediate](./developer-intermediate.md) during each PR for the first 2 weeks.
+-  Most people who skim through the reading materials tend to fail at becoming long term contributors. The key to passing is going through the developer docs during each PR for the first 2 weeks. And coming back to them once a month to realign.
 
 ## Naming Conventions
 
@@ -36,7 +36,7 @@
 
 - `your_short_name/feature-description`
 - Ex: `goktug/main-ejs-env-system`
-- Follow https://mirrors.edge.kernel.org/pub/software/scm/git/docs/git-check-ref-format.html, and don't use any special characters like `'`, just to be safe.
+- Follow https://mirrors.edge.kernel.org/pub/software/scm/git/docs/git-check-ref-format.html, and don't use any special characters like `'`.
 
 ### File And Folder Naming
 
