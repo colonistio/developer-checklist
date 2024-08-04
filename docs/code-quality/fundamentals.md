@@ -6,6 +6,7 @@
   - [Importance of reading the material](#importance-of-reading-the-material)
   - [Naming Conventions](#naming-conventions)
     - [Branch Naming](#branch-naming)
+    - [PR Naming](#pr-naming)
     - [File And Folder Naming](#file-and-folder-naming)
     - [Class And Function Naming](#class-and-function-naming)
     - [Variable Naming](#variable-naming)
@@ -36,6 +37,11 @@
 - `your_short_name/feature-description`
 - Ex: `goktug/main-ejs-env-system`
 - Follow https://mirrors.edge.kernel.org/pub/software/scm/git/docs/git-check-ref-format.html, and don't use any special characters like `'`.
+
+### PR Naming
+
+- `your_short_name/<PR Name>`
+- Ex: `muhammad/Disable Spectator Trade Options`
 
 ### File And Folder Naming
 
