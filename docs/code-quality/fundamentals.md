@@ -17,7 +17,6 @@
   - [Imitate Existing Solutions](#imitate-existing-solutions)
   - [Simplify Complex Expressions](#simplify-complex-expressions)
   - [Delete Unused Material](#delete-unused-material)
-  - [Add Patch Note](#add-patch-note)
   - [Don't Hoard Issues](#dont-hoard-issues)
   - [Don't Use Magic Numbers](#dont-use-magic-numbers)
   - [Avoid Code Repetition](#avoid-code-repetition)
@@ -178,25 +177,6 @@ const response = await axios.get<DiscordPurchases[]> (goodVarName, {headers: hea
 After refactoring, some code or resources may become unused. It's important to check if this is the case, and if so, delete unused material to keep the code clean, organized, and easy for others to work with.
 
 Example: https://www.loom.com/share/f99d5206b7394e96b132026863fe409a
-
-## Add Patch Note
-
-* `PatchNoteData.ts` allow the testers & players see what has changed, what to expect from the update. Also if something breaks later on, it is easier to skim or search in the Patch Note file and find the potential problem quickly
-
-Public Patch Note:
-* Logic, UI, gameplay changes
-
-Hidden Patch Note:
-* Big refactors, things that needs to be tested, things that can break the logic
-
-Not Added to Patch Note:
-* Small changes like renames, non-logic refactors, new tests. These don't have a chance to cause bugs and do not change the logic
-
-Extras:
-* If there is a relevant suggestion on [featureupvote](https://colonist.featureupvote.com), paste its link
-* If you're a contributor add `Thanks (your_colonist_username)` in there
-* If it is UI change add a screenshot in there
-* Video instructions: https://www.loom.com/share/01425ebba19143839f9e66830b398394
 
 ## Don't Hoard Issues
 

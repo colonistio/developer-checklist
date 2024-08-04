@@ -34,7 +34,6 @@
 - [ ] This PR abides by the [fundamental](/docs/code-quality/fundamentals.md), [intermediate](/docs/code-quality/intermediate.md), and [advanced](/docs/code-quality/advanced.md) practices & [Coding Rules](/docs/code-quality/coding-rules.md)
 - [ ] Tested every affected platform in local (Frontend: Chrome, Safari, Firefox, Mobile)
 - [ ] Written tests
-- [ ] Added to patch notes according to the [guide](../tree/development/docs/process/developer-level-1.md#add-patch-note)
 - [ ] I reviewed my own Pull Request commit by commit
 - [ ] I didn't just select everything, this PR really does abide by these ^
 
