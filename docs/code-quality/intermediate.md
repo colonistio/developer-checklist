@@ -102,8 +102,6 @@ Consider the below game modes. Accommodate future game modes as well.
   - These players prefer speed. Want to do stuff faster
   - These players have high familiarity and muscle memory
 
-[Learnings from Trading System Upgrade](./learnings-product.md)
-
 ### Questions To Ask
 - https://uxplanet.org/98-questions-ux-designers-must-ask-9b6984c6bd67?gi=66ccaed81478
 - What will this design make people do more?
