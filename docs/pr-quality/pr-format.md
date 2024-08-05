@@ -15,6 +15,7 @@
 - [ ] edge_case_1
 - [ ] edge_case_2
 #### Platforms affected by this PR:  
+<!-- DO NOT DELETE OR EDIT THIS LIST -->
 - [ ] Web
 - [ ] Mobile
   - [ ] Portrait
