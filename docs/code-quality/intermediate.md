@@ -7,7 +7,6 @@
     - [Phones](#phones)
     - [Tablets](#tablets)
     - [Responsive Desktop Screens](#responsive-desktop-screens)
-    - [Unique Screen Formats](#unique-screen-formats)
   - [Consider All Screen States and Scenarios](#consider-all-screen-states-and-scenarios)
     - [States](#states)
     - [Scenarios](#scenarios)
@@ -44,11 +43,6 @@
 even if [1920x1080 is the most widely desktop screen today](https://www.altamira.ai/blog/common-screen-sizes-for-responsive-web-design/)we should still be designing for 1440x900. Reason for this is that some players are playing in a smaller browser screen compared to their desktop and its a good practice to [design in a small screen and make it bigger](https://thewhitelabelagency.com/recommended-screen-resolution-for-web-design/) compared to designing it big and making it responsive to a smaller screen
 
 Consider different screen sizes: https://prnt.sc/w0vSLSNHRTLk
-
-### Unique Screen Formats
-- Discord Game Labs (https://prnt.sc/RqNuctEblZ0A)doesn't allow full screen so we shouldn't do our usual format of 1440x900. Its better to design in a smaller format of 1280x720.
-
-We might design some other screen with unique formats in the future. Keep in mind that it should be responsive and workable on that format
 
 ## Consider All Screen States and Scenarios
 
@@ -116,7 +110,7 @@ _Note: some questions may not be applicable to certain tasks. You should be able
 
 ## Competitive Analysis
 - You should have an eye for detail when it comes to how other games do a particular feature.
-- Create an understable research format. something like this (https://prnt.sc/zHvH8tMuaQQj) and write your own insights
+- Create a clear research format, something like this (https://prnt.sc/zHvH8tMuaQQj) and write your own insights.
 - Check https://www.gameuidatabase.com/ for a library of 500+ games to look at. Feel free to use whatever resource you have, be it using screenshot on a youtube video or you trying out the game or website itself. 
 
 ## Fits Colonist Artistic Style, Branding and Vision
@@ -126,17 +120,17 @@ Traverse Colonist.io to get a feel for our style.
 
 ## Fits Colonist Vision & Pillars
 
-For every element designer should ask why until hitting one of our [Pillars](https://prnt.sc/WZfNIlQO8LlG) or [Values](https://prnt.sc/YdIQhovDbO2i)
-If there are no pillars to direct the design decision a new pillar or guide should be suggested
+For every element, the designer should ask why until hitting one of our [Pillars](https://prnt.sc/WZfNIlQO8LlG) or [Values](https://prnt.sc/YdIQhovDbO2i).
+If there are no pillars to direct the design decision a new pillar or guide should be suggested.
 No design should be subjective. All designs should be objective & scientific.
 
 ## Understanding Users
 Your design is probably wrong if you don't know what the user wants. Here are a few ways of understanding users.
 
-1. Check https://colonist.featureupvote.com for any related suggestion.
-2. Post in public channels on Discord.
+1. Check https://colonist.featureupvote.com for any related suggestion
+2. Post in public channels on Discord
 3. DM players who seem interested to give feedback
-4. Making a prototype and observing testers interact with it
+4. Make a prototype and observe how testers interact with it
 
 ### Polling
 
