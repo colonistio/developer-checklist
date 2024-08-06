@@ -4,9 +4,9 @@
 1. Never work on the master or staging branches
 2. Always work on a custom branch dedicated to your feature
 5. Try to play around the code and discover how it works by yourself as much as possible
-7. If you just remembered a line of code that should've been added to the last commit, you should amend that line to last commit here: https://prnt.sc/v0t4ld
+6. If you just remembered a line of code that should've been added to the last commit, you should amend that line to the last commit here: https://prnt.sc/v0t4ld
 
-## Code Complete Tips
+## Tips for Robust and Maintainable Code
 
 Program defensively: recognize that mistakes will be made and program in such a way that catches and handles those mistakes as quickly as possible
 - Anticipate change
