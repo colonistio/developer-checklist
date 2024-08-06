@@ -28,7 +28,7 @@
 
 ## Importance of reading the material
 
--  Most people who skim through the reading materials tend to fail at becoming long term contributors. The key to passing is going through the developer docs during each PR for the first 2 weeks. And coming back to them once a month to realign.
+-  Most people who skim through the reading materials fail to become long term contributors. The key to passing is reading the developer docs during each PR for the first 2 weeks, until you've internalized them. And read them again each month to realign.
 
 ## Naming Conventions
 
@@ -98,7 +98,7 @@ Don't save multiple classes in the same file. If you need to create many classes
 
 ### Variable Naming
 
-- Prefer specific names instead of typical loop variable names like x, I, j, k
+- Prefer specific names instead of typical loop variable names like x, i, j, k
 - Shift names from CS naming to meaning (e.g: statusFlag to isValidDatabaseEntry)
 - Make sure class names defined for HTML should always use kebab case. For example `singleton-page-container` is the correct class convetion while `singleton_page_container` is not. If you find such cases, please create PRs with the fix
 - The generic/parent word should come first
