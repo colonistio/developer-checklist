@@ -10,7 +10,6 @@
   - [Consider All Screen States and Scenarios](#consider-all-screen-states-and-scenarios)
     - [States](#states)
     - [Scenarios](#scenarios)
-    - [Game Modes](#game-modes)
     - [Player Types](#player-types)
     - [Questions To Ask](#questions-to-ask)
   - [Consider Languages](#consider-languages)
@@ -19,7 +18,6 @@
   - [Fits Colonist Vision \& Pillars](#fits-colonist-vision--pillars)
   - [Understanding Users](#understanding-users)
     - [Polling](#polling)
-  - [Review](#review)
 
 ## Consider All Screen Sizes
 
@@ -75,17 +73,6 @@ some samples for scenarios inside the Leaderboards are:
 You should also consider edge cases such as:
 - when a player's name is too long. will it exceed the space given or cut it out?
 
-### Game Modes
-This is the [current in-game screen](https://prnt.sc/gbMYZkWCJpo0)
-
-Consider the below game modes. Accommodate future game modes as well.
-
-- Base
-- 5-6 & 7-8 player
-- C&K
-- SF
-- SF, C&K, 7-8 player
-
 ### Player Types
 
 - New player who doesn't know Catan
@@ -136,10 +123,3 @@ Your design is probably wrong if you don't know what the user wants. Here are a 
 
 It's a good way to gather certain insights on users.
 Here is an example way of creating a poll: https://www.loom.com/share/7c891b3adb194764923bab235d9d3a0b 
-
-## Review
-
-- You need to be reviewing at least the amount of work you’re creating
-- You should make sure the design is perfect, you should increase the quality of your peers and expect more from them
-
-Good Example: https://i.imgur.com/BrAistC.jpg 20+ comments
